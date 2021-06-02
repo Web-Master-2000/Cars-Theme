@@ -1,7 +1,7 @@
 /*  
  Theme Name: Cars Theme
 Theme URI: -
-Author:MasterWeb2000 Team/ by Arin Yazılım
+Author:MasterWeb2000 Team/ by Arin Yazılım  Youtube Channel
 Author URI: https:www.masterweb2000.com
 Description: Minamal Cars Theme for using any website by MasterWeb2000 Team
 Version: 1.0
